@@ -1,7 +1,7 @@
 ## install Command :-
 
 ```bash
-yarn install
+yarn
 ```
 
 ## Run Commands :-
